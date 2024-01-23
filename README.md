@@ -2,7 +2,7 @@
 
 Explanation:
 
-1. **Container Div Styles (div)**: Sets margin, padding, and a black border for the container div.
+1. **Container Div Styles <div>**: Sets margin, padding, and a black border for the container div.
 
 2. **Heading Styles (div h2)**: Styles the heading (h2) within the container div with a larger font size, centered text alignment, gray color, a specific font family ('Courier New', Courier, monospace), and uppercase text transformation.
 
